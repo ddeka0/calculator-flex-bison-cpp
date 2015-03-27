@@ -1,0 +1,8 @@
+
+/*  this is a testing program */
+
+
+
+a = 177;
+b = 1;
+print a + b/2;

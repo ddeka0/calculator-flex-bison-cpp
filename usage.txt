@@ -1,0 +1,5 @@
+building process : 
+
+1.		bison -d cal.y
+2.		flex cal.l
+3.		g++ -o your_executable_file_name lex.yy.c cal.tab.c
